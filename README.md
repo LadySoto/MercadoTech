@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-:nerd_face:Leidy Alzate :monocle_face:
+:) :nerd_face:Leidy Alzate :monocle_face:
 :worried:
 Lady Soto
 =======
