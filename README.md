@@ -1,5 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 :) :nerd_face:Leidy Alzate :monocle_face:
+=======
+hola, quiero dormir ya<<<<<<< HEAD
+:nerd_face:Leidy Alzate :monocle_face:
+>>>>>>> 375808aa1f065dcd3c892043de5fc214fc2a46f8
 :worried:
 Lady Soto
 =======
