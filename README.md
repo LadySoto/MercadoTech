@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+hola, quiero dormir ya<<<<<<< HEAD
 :nerd_face:Leidy Alzate :monocle_face:
 Lady Soto
 =======
